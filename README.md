@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Piyush Das. I work as a Web Developer primarily with React. Glad to see you here 👋
 
 
 Watch my contribution graph get eaten by a snake!
