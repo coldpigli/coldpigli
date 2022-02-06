@@ -1,10 +1,6 @@
 ### Hi there, I'm Piyush Das. I work as a Web Developer primarily with React. Glad to see you here 👋
 
 
-Watch my contribution graph get eaten by a snake!
-
-![snake gif](https://raw.githubusercontent.com/coldpigli/SnakeEater/output/github-contribution-grid-snake.gif)
-
 <!--
 **coldpigli/coldpigli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
