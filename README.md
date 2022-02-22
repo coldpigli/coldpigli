@@ -1,4 +1,4 @@
-### Hi there, I'm Piyush Das. I work as a Web Developer primarily with React. Glad to see you here 👋
+### Hi there, I'm Piyush Das. I work as a Web Developer primarily with React. 👋
 
 
 <!--
