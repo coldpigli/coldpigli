@@ -33,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldpigli)](https://github.com/srejitk/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coldpigli&show_icons=true&&theme=slateorange&hide=issues&count_private=true" alt="coldpigli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coldpigli&show_icons=true&&theme= tokyonight&hide=issues&count_private=true" alt="coldpigli" /></p>
